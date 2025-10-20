@@ -1,6 +1,6 @@
 # Customer-Insights-and-Sales-Performance-Analysis-Using-SQL
 
-# 📊 Overview<br>
+## 📊 Overview<br>
 
 This project demonstrates end-to-end SQL-based data analytics, covering both Exploratory Data Analysis (EDA) and Advanced Analytics. The analysis is designed to extract key insights about customer behavior, sales trends, and business performance using SQL.
 
