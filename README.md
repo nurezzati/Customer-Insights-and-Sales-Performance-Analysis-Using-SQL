@@ -36,7 +36,7 @@ SQL Server Management Studio (SSMS)
 
 💡 Key Learnings<br>
 
-Designing reusable SQL views for business reporting<br>
-Translating analytical logic into SQL<br>
-Performing EDA and advanced analysis without external tools
+1. Designing reusable SQL views for business reporting<br>
+2. Translating analytical logic into SQL<br>
+3. Performing EDA and advanced analysis without external tools
 
